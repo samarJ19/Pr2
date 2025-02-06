@@ -3,7 +3,6 @@ const jwt = require("jsonwebtoken");
 const JWT_PASSWORD = process.env.JWT_PASSWORD;
 const authMiddleware = async (req, res, next) => {
     const token = req.cookies.token;
-    console.log("Got token from cookies");
     try {
         console.log("rec. token: ",token)
         const decoded = jwt.verify(token, JWT_PASSWORD);

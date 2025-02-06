@@ -17,7 +17,7 @@ app.use(cookieParser());
 const adminRouter = require("./routes/admin");
 const userRouter = require("./routes/user");
 app.use("/admin",adminRouter);
-app.use("user",userRouter);
+app.use("/user",userRouter);
 
 app.listen(PORT,()=>{
     console.log(`Server live at http://localhost:${PORT}`)
