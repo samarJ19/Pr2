@@ -197,50 +197,65 @@ const PerformanceReports = () => {
   ];
 
   return (
-    <div className=" w-full">
-      <section className="w-full bg-[url('https://images.unsplash.com/photo-1560221328-12fe60f83ab8?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center box-border p-6 lg:p-10 ">
-        <div className="max-w-6xl mx-auto rounded-lg shadow-lg p-8">
-          <h1 className="text-5xl font-bold mb-5 text-center font-bebas text-white">Performance Reports</h1>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-            {/* Real-Time Analytics */}
-            <div className="bg-blue-500 text-white rounded-lg shadow-lg p-6 flex flex-col">
-              <h2 className="text-xl font-bold mb-4 flex items-center">
-                <FaChartLine className="mr-2 text-2xl" /> Feedback
-              </h2>
-              <div className="flex-1">
-                <LineChart width={500} height={300} data={performanceData}>
-                  <CartesianGrid strokeDasharray="3 3" />
-                  <XAxis dataKey="name" />
-                  <YAxis />
-                  <Tooltip />
-                  <Line type="monotone" dataKey="score" stroke="#fff" strokeWidth={2} />
-                </LineChart>
-              </div>
-              <p className="mt-4">
-                View your strengths and weaknesses across various skill areas with detailed charts and metrics.
-              </p>
-            </div>
+      <div className="pt-20 w-full">
+          <section className="w-full bg-[var(--secondary-color)] box-border p-6 lg:p-10 ">
+              <div className="max-w-6xl mx-auto bg-white rounded-lg shadow-lg p-8">
+                  <h1 className="text-3xl font-bold mb-6 text-center">
+                      Performance Reports
+                  </h1>
 
-            {/* Assessment History */}
-            <div className="bg-green-500 text-white rounded-lg shadow-lg p-6 flex flex-col">
-              <h2 className="text-xl font-bold mb-4 flex items-center">
-                <FaHistory className="mr-2 text-2xl" /> Assessment History
-              </h2>
-              <div className="flex-1">
-                <p className="mb-4">
-                  View all your past assessments with detailed reports. Download your reports for offline analysis.
-                </p>
-                <button className="bg-white text-green-600 px-4 py-2 rounded-full shadow-lg hover:bg-green-300 transition duration-300">
-                  Download Reports
-                </button>
-              </div>
-            </div>
-          </div>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                      {/* Real-Time Analytics */}
+                      <div className="bg-[var(--primary-color)] text-white rounded-lg shadow-lg p-6 flex flex-col">
+                          <h2 className="text-xl font-bold mb-4 flex items-center">
+                              <FaChartLine className="mr-2 text-2xl" /> Feedback
+                          </h2>
+                          <div className="flex-1">
+                              <LineChart
+                                  width={500}
+                                  height={300}
+                                  data={performanceData}
+                              >
+                                  <CartesianGrid strokeDasharray="3 3" />
+                                  <XAxis dataKey="name" />
+                                  <YAxis />
+                                  <Tooltip />
+                                  <Line
+                                      type="monotone"
+                                      dataKey="score"
+                                      stroke="#fff"
+                                      strokeWidth={2}
+                                  />
+                              </LineChart>
+                          </div>
+                          <p className="mt-4">
+                              View your strengths and weaknesses across various
+                              skill areas with detailed charts and metrics.
+                          </p>
+                      </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-            {/* Compare Performance */}
-            {/* <div className="bg-purple-500 text-white rounded-lg shadow-lg p-6 flex flex-col">
+                      {/* Assessment History */}
+                      <div className="bg-[var(--primary-color)] text-white rounded-lg shadow-lg p-6 flex flex-col">
+                          <h2 className="text-xl font-bold mb-4 flex items-center">
+                              <FaHistory className="mr-2 text-2xl" /> Assessment
+                              History
+                          </h2>
+                          <div className="flex-1">
+                              <p className="mb-4">
+                                  View all your past assessments with detailed
+                                  reports. Download your reports for offline
+                                  analysis.
+                              </p>
+                              <button className="bg-white text-[var(--primary-color)] font-bold px-4 py-2 rounded-full shadow-lg hover:scale-105 transition duration-300">
+                                  Download Reports
+                              </button>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                      {/* Compare Performance */}
+                      {/* <div className="bg-purple-500 text-white rounded-lg shadow-lg p-6 flex flex-col">
               <h2 className="text-xl font-bold mb-4 flex items-center">
                 <FaUserFriends className="mr-2 text-2xl" /> Compare Performance
               </h2>
@@ -252,24 +267,25 @@ const PerformanceReports = () => {
               </button>
             </div> */}
 
-            {/* Suggested Learning Paths */}
-            <div className="bg-orange-500 text-white rounded-lg shadow-lg p-6 flex flex-col">
-              <h2 className="text-xl font-bold mb-4 flex items-center">
-                <FaLightbulb className="mr-2 text-2xl" /> Suggested Course
-              </h2>
-              <p className="mb-4">
-                Get AI-driven suggestions for improving your skills based on your performance. Explore tailored learning paths to enhance your abilities.
-              </p>
-              <button className="bg-white text-orange-600 px-4 py-2 rounded-full shadow-lg hover:bg-orange-300 transition duration-300">
-                View Suggestions
-              </button>
-            </div>
-           
-          
-          </div>
-        </div>
-      </section>
-    </div>
+                      {/* Suggested Learning Paths */}
+                      <div className="bg-[var(--primary-color)] text-white rounded-lg shadow-lg p-6 flex flex-col">
+                          <h2 className="text-xl font-bold mb-4 flex items-center">
+                              <FaLightbulb className="mr-2 text-2xl" />{" "}
+                              Suggested Course
+                          </h2>
+                          <p className="mb-4">
+                              Get AI-driven suggestions for improving your
+                              skills based on your performance. Explore tailored
+                              learning paths to enhance your abilities.
+                          </p>
+                          <button className="bg-white text-[var(--primary-color)] font-bold px-4 py-2 rounded-full shadow-lg hover:scale-105 transition duration-300">
+                              View Suggestions
+                          </button>
+                      </div>
+                  </div>
+              </div>
+          </section>
+      </div>
   );
 };
 

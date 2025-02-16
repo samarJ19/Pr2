@@ -54,9 +54,9 @@ const SubjectCards = () => {
         },
     ];
 
-    return ( <section className="w-full h-screen bg-[url('https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')] bg-cover bg-center">
-        <div className="w-full max-w-4xl mx-auto relative top-40 p-6 ">
-            <h1 className="text-6xl font-bebas text-slate-200  text-center mb-6">
+    return (
+        <div className="w-screen max-w-4xl min-h-[600px] p-6 mx-auto">
+            <h1 className="flex flex-row justify-center py-5 text-3xl font-bold align-middle mb-6">
                 Your Courses
             </h1>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -75,7 +75,7 @@ const SubjectCards = () => {
                         </div>
 
                         {/* Content Section */}
-                        <div className={`${subject.color} p-4`}>
+                        <div className={`bg-[var(--secondary-color)] p-4`}>
                             <div className="flex items-center justify-between mb-2">
                                 <h2 className="text-lg font-semibold text-gray-800">
                                     {subject.name}
@@ -92,8 +92,6 @@ const SubjectCards = () => {
                 ))}
             </div>
         </div>
-    </section>
-        
     );
 };
 

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Sidebar from "../components/Sidebar";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import HomePage from "../home/HomePage";
-import AssessmentCreation from "../Dashboard/AssessmentCreation"
+import AssessmentCreation from "../Dashboard/AssessmentCreation";
 import PerformanceReports from "../performanceReports/PerformanceReports";
 import AccessibilityOptions from "../accessibility/AccessibilityOptions";
 import Dashboard from "../Dashboardd/Dashboard";
@@ -10,9 +10,9 @@ import Support from "../support/Support";
 import ResultsAndAnalytics from "../Result/ResultsAndAnalytics";
 import SubjectCards from "../components/library";
 import Footer from "../components/footer";
+import Banner from "./Banner";
 
-
-const LandingPage = ()=>{
+const LandingPage = () => {
     const [activeSection, setActiveSection] = useState("home");
 
     useEffect(() => {
@@ -42,48 +42,29 @@ const LandingPage = ()=>{
         };
     }, []);
     return (
-        <div className="flex flex-row w-screen">
-            {/* <Sidebar activeSection={activeSection} /> */}
-
-            {/* Main Content */}
-            <div className="flex flex-col w-[100%] right-0 bg-gray-100 min-h-screen">
-                <div id="home" className="section">
+        <div className="flex flex-row w-screen max-w-[2000px]">
+            <div className="flex flex-col w-[100%] right-0 bg-gray-100 h-screen h-max-[800px] h-min-[600px]">
+                <div id="top" className="section w-screen max-w-[2000px]">
+                    <Banner activeSection={activeSection} />
+                </div>
+                <div id="home" className="section w-screen max-w-[2000px]">
                     <HomePage />
                 </div>
-
-                <div id="dashboard" className="section">
+                <div id="services" className="section w-screen max-w-[2000px]">
                     <Dashboard />
                 </div>
-                <div id="library" className="section ">
-                    <SubjectCards/>
+                <div id="library" className="section w-screen max-w-[2000px]">
+                    <SubjectCards />
                 </div>
-                {/* add educational library at least thumbnails
-                <div id="assessments" className="section">
-                    <AssessmentCreation />
-                </div> */}
-
-                {/* <div id="accessibility" className="section">
-                    <AccessibilityOptions />
-                </div> */}
-
-                <div id="reports" className="section">
+                <div id="reports" className="section w-screen max-w-[2000px]">
                     <PerformanceReports />
                 </div>
-
-                {/* <div id="resultandanalytics" className="section">
-                    <ResultsAndAnalytics/>
-                </div> */}
-                {/* Add a new footer
-                <div id="support" className="section">
-                    <Support />
-                </div> */}
-                <div id="footer" className="section">
-                    <Footer/>
+                <div id="footer" className="section w-screen max-w-[2000px]">
+                    <Footer />
                 </div>
             </div>
         </div>
     );
-        
-}
+};
 
 export default LandingPage;
