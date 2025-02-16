@@ -4,6 +4,7 @@ import LandingPage from "./pages/Landingpage";
 import EducatorSignin from "./pages/Signin";
 import UploadPdfForEval from "./pages/UploadForEval";
 import UploadPageUser from "./pages/UploadPageUser";
+import "./App.css"
 
 const App = () => {
 
