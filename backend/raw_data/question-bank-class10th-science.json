@@ -1,0 +1,325 @@
+{
+  "questions": [
+    {
+      "question_id": "CR_01",
+      "question_text": "What happens when magnesium ribbon burns in air? Write the balanced chemical equation.",
+      "subject": "Science",
+      "topic": "Chemical Reactions",
+      "difficulty_level": "easy",
+      "correct_answer": "Magnesium reacts with oxygen to form magnesium oxide. Equation: 2Mg + O₂ → 2MgO"
+    },
+    {
+      "question_id": "CR_02",
+      "question_text": "Identify the type of chemical reaction in the following equation: Fe + CuSO₄ → FeSO₄ + Cu",
+      "subject": "Science",
+      "topic": "Chemical Reactions",
+      "difficulty_level": "easy",
+      "correct_answer": "Displacement reaction"
+    },
+    {
+      "question_id": "CR_03",
+      "question_text": "Why is photosynthesis considered an endothermic reaction?",
+      "subject": "Science",
+      "topic": "Chemical Reactions",
+      "difficulty_level": "medium",
+      "rubric": "The answer should explain that photosynthesis requires light energy to convert carbon dioxide and water into glucose and oxygen, making it an endothermic reaction."
+    },
+    {
+      "question_id": "CR_04",
+      "question_text": "What is a redox reaction? Explain with an example.",
+      "subject": "Science",
+      "topic": "Chemical Reactions",
+      "difficulty_level": "medium",
+      "rubric": "The answer should define redox reaction, mention oxidation and reduction, and provide a balanced chemical equation, such as Zn + CuSO₄ → ZnSO₄ + Cu."
+    },
+    {
+      "question_id": "CR_05",
+      "question_text": "Write the balanced chemical equation for the reaction between lead nitrate and potassium iodide. What type of reaction is this?",
+      "subject": "Science",
+      "topic": "Chemical Reactions",
+      "difficulty_level": "hard",
+      "correct_answer": "Pb(NO₃)₂ + 2KI → PbI₂ + 2KNO₃ (Precipitation reaction)"
+    },
+    {
+      "question_id": "ABS_01",
+      "question_text": "What happens when an acid reacts with a metal? Write a balanced equation.",
+      "subject": "Science",
+      "topic": "Acids, Bases, and Salts",
+      "difficulty_level": "easy",
+      "correct_answer": "Acids react with metals to form salt and hydrogen gas. Example: 2HCl + Zn → ZnCl₂ + H₂"
+    },
+    {
+      "question_id": "ABS_02",
+      "question_text": "Why is NaOH used in soap making?",
+      "subject": "Science",
+      "topic": "Acids, Bases, and Salts",
+      "difficulty_level": "medium",
+      "rubric": "The answer should explain that NaOH helps in saponification, where it reacts with fats to produce soap and glycerol."
+    },
+    {
+      "question_id": "ABS_03",
+      "question_text": "Explain why strong acids conduct electricity better than weak acids.",
+      "subject": "Science",
+      "topic": "Acids, Bases, and Salts",
+      "difficulty_level": "medium",
+      "rubric": "The answer should mention ionization in water, stating that strong acids fully ionize, producing more free ions for electrical conduction."
+    },
+    {
+      "question_id": "ABS_04",
+      "question_text": "How does pH affect soil fertility?",
+      "subject": "Science",
+      "topic": "Acids, Bases, and Salts",
+      "difficulty_level": "hard",
+      "rubric": "The answer should discuss the impact of acidic and basic soils on nutrient absorption by plants and how neutralization with lime helps."
+    },
+    {
+      "question_id": "ABS_05",
+      "question_text": "Write the chemical reaction of baking soda with vinegar and state the type of reaction.",
+      "subject": "Science",
+      "topic": "Acids, Bases, and Salts",
+      "difficulty_level": "easy",
+      "correct_answer": "NaHCO₃ + CH₃COOH → CO₂ + H₂O + CH₃COONa (Neutralization reaction)"
+    },
+    {
+      "question_id": "MNM_01",
+      "question_text": "Name a non-metal that is a good conductor of electricity.",
+      "subject": "Science",
+      "topic": "Metals and Non-metals",
+      "difficulty_level": "easy",
+      "correct_answer": "Graphite"
+    },
+    {
+      "question_id": "MNM_02",
+      "question_text": "Why does aluminium develop a protective oxide layer?",
+      "subject": "Science",
+      "topic": "Metals and Non-metals",
+      "difficulty_level": "medium",
+      "rubric": "The answer should explain how aluminium reacts with oxygen to form a thin, protective Al₂O₃ layer that prevents further corrosion."
+    },
+    {
+      "question_id": "MNM_03",
+      "question_text": "What is an alloy? Give an example.",
+      "subject": "Science",
+      "topic": "Metals and Non-metals",
+      "difficulty_level": "easy",
+      "correct_answer": "An alloy is a homogeneous mixture of two or more metals or a metal with a non-metal. Example: Brass (Cu + Zn)."
+    },
+    {
+      "question_id": "MNM_04",
+      "question_text": "Explain why sodium and potassium are stored in kerosene.",
+      "subject": "Science",
+      "topic": "Metals and Non-metals",
+      "difficulty_level": "medium",
+      "rubric": "The answer should mention that sodium and potassium are highly reactive and react with oxygen/water in air, so they are stored in kerosene to prevent contact with moisture."
+    },
+    {
+      "question_id": "MNM_05",
+      "question_text": "Write the chemical equation for the reaction of iron with steam.",
+      "subject": "Science",
+      "topic": "Metals and Non-metals",
+      "difficulty_level": "hard",
+      "correct_answer": "3Fe + 4H₂O → Fe₃O₄ + 4H₂"
+    },
+    {
+      "question_id": "CC_01",
+      "question_text": "Why does carbon form covalent bonds?",
+      "subject": "Science",
+      "topic": "Carbon Compounds",
+      "difficulty_level": "easy",
+      "correct_answer": "Carbon has 4 valence electrons, so it shares electrons to complete its octet, forming covalent bonds."
+    },
+    {
+      "question_id": "CC_02",
+      "question_text": "What is the general formula of alkanes? Give an example.",
+      "subject": "Science",
+      "topic": "Carbon Compounds",
+      "difficulty_level": "easy",
+      "correct_answer": "General formula: CₙH₂ₙ₊₂. Example: Methane (CH₄)"
+    },
+    {
+      "question_id": "CC_03",
+      "question_text": "What happens when ethanol is heated with concentrated H₂SO₄?",
+      "subject": "Science",
+      "topic": "Carbon Compounds",
+      "difficulty_level": "medium",
+      "correct_answer": "Ethanol undergoes dehydration to form ethene. Equation: C₂H₅OH → C₂H₄ + H₂O"
+    },
+    {
+      "question_id": "CC_04",
+      "question_text": "Why does soap not work well in hard water?",
+      "subject": "Science",
+      "topic": "Carbon Compounds",
+      "difficulty_level": "medium",
+      "rubric": "The answer should mention that soap reacts with calcium and magnesium ions in hard water, forming an insoluble scum instead of lathering."
+    },
+    {
+      "question_id": "CC_05",
+      "question_text": "Write the reaction of ethanoic acid with sodium carbonate. What type of reaction is it?",
+      "subject": "Science",
+      "topic": "Carbon Compounds",
+      "difficulty_level": "hard",
+      "correct_answer": "CH₃COOH + Na₂CO₃ → CH₃COONa + CO₂ + H₂O (Neutralization reaction)"
+    },
+    {
+      "question_id": "CCAP_01",
+      "question_text": "Name the plant hormone responsible for phototropism.",
+      "subject": "Science",
+      "topic": "Control and Coordination in Animals and Plants",
+      "difficulty_level": "easy",
+      "correct_answer": "Auxin"
+    },
+    {
+      "question_id": "CCAP_02",
+      "question_text": "What is the function of the cerebellum?",
+      "subject": "Science",
+      "topic": "Control and Coordination in Animals and Plants",
+      "difficulty_level": "easy",
+      "correct_answer": "The cerebellum controls balance and coordination of body movements."
+    },
+    {
+      "question_id": "CCAP_03",
+      "question_text": "Why do touch-me-not (Mimosa pudica) leaves close when touched?",
+      "subject": "Science",
+      "topic": "Control and Coordination in Animals and Plants",
+      "difficulty_level": "medium",
+      "rubric": "The answer should mention thigmonastic movement and how changes in turgor pressure cause leaf movement."
+    },
+    {
+      "question_id": "CCAP_04",
+      "question_text": "Differentiate between reflex action and voluntary action with examples.",
+      "subject": "Science",
+      "topic": "Control and Coordination in Animals and Plants",
+      "difficulty_level": "medium",
+      "rubric": "The answer should define both actions, give examples like knee-jerk reflex for reflex action, and writing for voluntary action."
+    },
+    {
+      "question_id": "CCAP_05",
+      "question_text": "Describe the role of insulin in blood sugar regulation.",
+      "subject": "Science",
+      "topic": "Control and Coordination in Animals and Plants",
+      "difficulty_level": "hard",
+      "rubric": "The answer should explain how insulin lowers blood glucose levels by promoting glucose uptake into cells and glycogen storage in the liver."
+    },
+    {
+      "question_id": "REP_01",
+      "question_text": "What is the function of the placenta in human reproduction?",
+      "subject": "Science",
+      "topic": "Reproduction",
+      "difficulty_level": "easy",
+      "correct_answer": "The placenta supplies oxygen and nutrients to the fetus and removes waste."
+    },
+    {
+      "question_id": "REP_02",
+      "question_text": "Name the asexual reproduction method in yeast.",
+      "subject": "Science",
+      "topic": "Reproduction",
+      "difficulty_level": "easy",
+      "correct_answer": "Budding"
+    },
+    {
+      "question_id": "REP_03",
+      "question_text": "Explain the role of DNA in reproduction.",
+      "subject": "Science",
+      "topic": "Reproduction",
+      "difficulty_level": "medium",
+      "rubric": "The answer should describe how DNA carries genetic information to offspring, ensuring inheritance of traits."
+    },
+    {
+      "question_id": "REP_04",
+      "question_text": "How do contraceptive pills work?",
+      "subject": "Science",
+      "topic": "Reproduction",
+      "difficulty_level": "medium",
+      "rubric": "The answer should mention how they contain hormones that prevent ovulation, making pregnancy unlikely."
+    },
+    {
+      "question_id": "REP_05",
+      "question_text": "Describe the advantages of sexual reproduction over asexual reproduction.",
+      "subject": "Science",
+      "topic": "Reproduction",
+      "difficulty_level": "hard",
+      "rubric": "The answer should include points on genetic variation, better adaptability, and evolutionary advantages."
+    },
+    {
+      "question_id": "HE_01",
+      "question_text": "Who is known as the father of genetics?",
+      "subject": "Science",
+      "topic": "Heredity and Evolution",
+      "difficulty_level": "easy",
+      "correct_answer": "Gregor Mendel"
+    },
+    {
+      "question_id": "HE_02",
+      "question_text": "Define variation in genetics.",
+      "subject": "Science",
+      "topic": "Heredity and Evolution",
+      "difficulty_level": "easy",
+      "correct_answer": "Differences in traits among individuals of a species."
+    },
+    {
+      "question_id": "HE_03",
+      "question_text": "Explain Mendel's experiment on pea plants.",
+      "subject": "Science",
+      "topic": "Heredity and Evolution",
+      "difficulty_level": "medium",
+      "rubric": "The answer should discuss dominant and recessive traits, monohybrid crosses, and Mendel's laws."
+    },
+    {
+      "question_id": "HE_04",
+      "question_text": "What is natural selection?",
+      "subject": "Science",
+      "topic": "Heredity and Evolution",
+      "difficulty_level": "medium",
+      "rubric": "The answer should explain how advantageous traits help survival and reproduction, leading to evolution."
+    },
+    {
+      "question_id": "HE_05",
+      "question_text": "Differentiate between homologous and analogous organs with examples.",
+      "subject": "Science",
+      "topic": "Heredity and Evolution",
+      "difficulty_level": "hard",
+      "rubric": "The answer should include definitions and examples like forelimbs of vertebrates (homologous) and wings of birds and insects (analogous)."
+    },
+    {
+      "question_id": "REF_01",
+      "question_text": "What is the refractive index of a medium?",
+      "subject": "Science",
+      "topic": "Refraction",
+      "difficulty_level": "easy",
+      "correct_answer": "The ratio of the speed of light in a vacuum to its speed in the medium."
+    },
+    {
+      "question_id": "REF_02",
+      "question_text": "What happens to the speed of light when it moves from air to water?",
+      "subject": "Science",
+      "topic": "Refraction",
+      "difficulty_level": "easy",
+      "correct_answer": "The speed decreases."
+    },
+    {
+      "question_id": "REF_03",
+      "question_text": "State Snell's law of refraction.",
+      "subject": "Science",
+      "topic": "Refraction",
+      "difficulty_level": "medium",
+      "correct_answer": "n₁sinθ₁ = n₂sinθ₂, where n₁ and n₂ are refractive indices of media."
+    },
+    {
+      "question_id": "REF_04",
+      "question_text": "Explain why a pencil appears bent in water.",
+      "subject": "Science",
+      "topic": "Refraction",
+      "difficulty_level": "medium",
+      "rubric": "The answer should discuss refraction at the water-air interface causing the light path to bend."
+    },
+    {
+      "question_id": "REF_05",
+      "question_text": "What is the critical angle in total internal reflection?",
+      "subject": "Science", 
+      "topic": "Refraction",
+      "difficulty_level": "hard",
+      "correct_answer": "The angle of incidence at which light is refracted at 90° along the boundary."
+    }
+  ]
+}
+      

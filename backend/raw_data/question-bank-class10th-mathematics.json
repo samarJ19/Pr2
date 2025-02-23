@@ -1,0 +1,324 @@
+{
+  "questions": [
+    {
+      "question_id": "RN_01",
+      "question_text": "State the Fundamental Theorem of Arithmetic.",
+      "subject": "Mathematics",
+      "topic": "Real Numbers",
+      "difficulty_level": "easy",
+      "correct_answer": "Every composite number can be expressed as a product of prime numbers in a unique way, except for the order of the factors."
+    },
+    {
+      "question_id": "RN_02",
+      "question_text": "Find the HCF of 60 and 72 using the prime factorization method.",
+      "subject": "Mathematics",
+      "topic": "Real Numbers",
+      "difficulty_level": "easy",
+      "correct_answer": "HCF(60, 72) = 12"
+    },
+    {
+      "question_id": "RN_03",
+      "question_text": "Show that 3 + 2√5 is an irrational number.",
+      "subject": "Mathematics",
+      "topic": "Real Numbers",
+      "difficulty_level": "medium",
+      "rubric": "The answer should include proof by contradiction, assuming it to be rational, and then proving it false."
+    },
+    {
+      "question_id": "RN_04",
+      "question_text": "Find the LCM and HCF of 36 and 48 using the relation between HCF and LCM.",
+      "subject": "Mathematics",
+      "topic": "Real Numbers",
+      "difficulty_level": "medium",
+      "correct_answer": "HCF(36,48) = 12, LCM(36,48) = 144, and the relation LCM × HCF = Product of numbers is verified."
+    },
+    {
+      "question_id": "RN_05",
+      "question_text": "Prove that √2 is irrational.",
+      "subject": "Mathematics",
+      "topic": "Real Numbers",
+      "difficulty_level": "hard",
+      "rubric": "The answer should include proof by contradiction, assuming √2 is rational, and reaching a contradiction."
+    },
+    {
+      "question_id": "LQ_01",
+      "question_text": "Solve the system of equations: 2x + 3y = 12 and x - y = 4.",
+      "subject": "Mathematics",
+      "topic": "Pair of Linear Equations in Two Variables",
+      "difficulty_level": "easy",
+      "correct_answer": "x = 6, y = 2"
+    },
+    {
+      "question_id": "LQ_02",
+      "question_text": "Find the value of k if the system of equations 3x + 2y = 5 and 6x + ky = 10 has infinitely many solutions.",
+      "subject": "Mathematics",
+      "topic": "Pair of Linear Equations in Two Variables",
+      "difficulty_level": "medium",
+      "correct_answer": "k = 4"
+    },
+    {
+      "question_id": "LQ_03",
+      "question_text": "A boat takes 4 hours to travel 24 km downstream and 6 hours to travel the same distance upstream. Find the speed of the boat in still water and the speed of the current.",
+      "subject": "Mathematics",
+      "topic": "Pair of Linear Equations in Two Variables",
+      "difficulty_level": "hard",
+      "correct_answer": "Speed of boat = 6 km/h, Speed of current = 2 km/h"
+    },
+    {
+      "question_id": "LQ_04",
+      "question_text": "Determine whether the following system of equations has a unique solution, infinitely many solutions, or no solution: 4x - y = 2 and 8x - 2y = 4.",
+      "subject": "Mathematics",
+      "topic": "Pair of Linear Equations in Two Variables",
+      "difficulty_level": "medium",
+      "correct_answer": "Infinitely many solutions"
+    },
+    {
+      "question_id": "LQ_05",
+      "question_text": "Solve using the substitution method: x + y = 7 and 2x - y = 4.",
+      "subject": "Mathematics",
+      "topic": "Pair of Linear Equations in Two Variables",
+      "difficulty_level": "easy",
+      "correct_answer": "x = 11/3, y = 10/3"
+    },
+    {
+      "question_id": "QE_01",
+      "question_text": "Find the roots of the quadratic equation x² - 5x + 6 = 0.",
+      "subject": "Mathematics",
+      "topic": "Quadratic Equations",
+      "difficulty_level": "easy",
+      "correct_answer": "x = 2, x = 3"
+    },
+    {
+      "question_id": "QE_02",
+      "question_text": "The product of two consecutive positive integers is 182. Find the integers.",
+      "subject": "Mathematics",
+      "topic": "Quadratic Equations",
+      "difficulty_level": "medium",
+      "correct_answer": "13 and 14"
+    },
+    {
+      "question_id": "QE_03",
+      "question_text": "Find the nature of roots for the quadratic equation 2x² - 3x + 5 = 0.",
+      "subject": "Mathematics",
+      "topic": "Quadratic Equations",
+      "difficulty_level": "medium",
+      "correct_answer": "Since the discriminant is negative, the roots are imaginary."
+    },
+    {
+      "question_id": "QE_04",
+      "question_text": "Solve the quadratic equation 3x² - 5x - 2 = 0 using the quadratic formula.",
+      "subject": "Mathematics",
+      "topic": "Quadratic Equations",
+      "difficulty_level": "hard",
+      "correct_answer": "x = 2, x = -1/3"
+    },
+    {
+      "question_id": "QE_05",
+      "question_text": "A train travels 360 km at a uniform speed. If the speed had been 5 km/h more, it would have taken 48 minutes less. Find the speed of the train.",
+      "subject": "Mathematics",
+      "topic": "Quadratic Equations",
+      "difficulty_level": "hard",
+      "correct_answer": "Speed = 40 km/h"
+    },
+    {
+      "question_id": "AP_01",
+      "question_text": "Find the 10th term of the AP: 3, 7, 11, 15, …",
+      "subject": "Mathematics",
+      "topic": "Arithmetic Progressions",
+      "difficulty_level": "easy",
+      "correct_answer": "39"
+    },
+    {
+      "question_id": "AP_02",
+      "question_text": "Find the sum of the first 15 terms of the AP: 2, 4, 6, 8, …",
+      "subject": "Mathematics",
+      "topic": "Arithmetic Progressions",
+      "difficulty_level": "easy",
+      "correct_answer": "240"
+    },
+    {
+      "question_id": "AP_03",
+      "question_text": "The 7th term of an AP is 20, and the 12th term is 35. Find the first term and common difference.",
+      "subject": "Mathematics",
+      "topic": "Arithmetic Progressions",
+      "difficulty_level": "medium",
+      "correct_answer": "First term = 5, Common difference = 3"
+    },
+    {
+      "question_id": "AP_04",
+      "question_text": "How many terms of the AP: 7, 10, 13, … must be taken so that their sum is 228?",
+      "subject": "Mathematics",
+      "topic": "Arithmetic Progressions",
+      "difficulty_level": "medium",
+      "correct_answer": "12 terms"
+    },
+    {
+      "question_id": "AP_05",
+      "question_text": "The sum of the first n terms of an AP is given by Sₙ = 5n² + 3n. Find the first term and common difference.",
+      "subject": "Mathematics",
+      "topic": "Arithmetic Progressions",
+      "difficulty_level": "hard",
+      "correct_answer": "First term = 8, Common difference = 10"
+    },
+    {
+      "question_id": "CG_01",
+      "question_text": "Find the distance between the points (3, 4) and (6, 8).",
+      "subject": "Mathematics",
+      "topic": "Coordinate Geometry",
+      "difficulty_level": "easy",
+      "correct_answer": "Distance = 5 units"
+    },
+    {
+      "question_id": "CG_02",
+      "question_text": "Find the coordinates of the midpoint of the line segment joining (2, 3) and (8, 7).",
+      "subject": "Mathematics",
+      "topic": "Coordinate Geometry",
+      "difficulty_level": "easy",
+      "correct_answer": "(5, 5)"
+    },
+    {
+      "question_id": "CG_03",
+      "question_text": "Find the area of the triangle with vertices (1, 2), (3, 5), and (6, 4).",
+      "subject": "Mathematics",
+      "topic": "Coordinate Geometry",
+      "difficulty_level": "medium",
+      "correct_answer": "4.5 square units"
+    },
+    {
+      "question_id": "CG_04",
+      "question_text": "Find the coordinates of a point that divides the line segment joining (2, -3) and (6, 5) in the ratio 3:1.",
+      "subject": "Mathematics",
+      "topic": "Coordinate Geometry",
+      "difficulty_level": "medium",
+      "correct_answer": "(5, 3)"
+    },
+    {
+      "question_id": "CG_05",
+      "question_text": "Prove that the points (1, -1), (3, 4), and (5, 9) are collinear.",
+      "subject": "Mathematics",
+      "topic": "Coordinate Geometry",
+      "difficulty_level": "hard",
+      "rubric": "Use the slope formula and show that the slopes between all pairs of points are equal."
+    },
+    {
+      "question_id": "TRI_01",
+      "question_text": "State the Pythagoras theorem.",
+      "subject": "Mathematics",
+      "topic": "Triangles",
+      "difficulty_level": "easy",
+      "correct_answer": "In a right-angled triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides."
+    },
+    {
+      "question_id": "TRI_02",
+      "question_text": "If two triangles are similar, what can you say about their corresponding angles and sides?",
+      "subject": "Mathematics",
+      "topic": "Triangles",
+      "difficulty_level": "easy",
+      "correct_answer": "Corresponding angles are equal, and corresponding sides are proportional."
+    },
+    {
+      "question_id": "TRI_03",
+      "question_text": "Prove that a line parallel to one side of a triangle divides the other two sides in the same ratio.",
+      "subject": "Mathematics",
+      "topic": "Triangles",
+      "difficulty_level": "medium",
+      "rubric": "The answer should include a proof using the Basic Proportionality Theorem (Thales' theorem)."
+    },
+    {
+      "question_id": "TRI_04",
+      "question_text": "Two similar triangles have sides in the ratio 3:5. Find the ratio of their areas.",
+      "subject": "Mathematics",
+      "topic": "Triangles",
+      "difficulty_level": "medium",
+      "correct_answer": "The ratio of areas = 9:25"
+    },
+    {
+      "question_id": "TRI_05",
+      "question_text": "Prove that the ratio of areas of two similar triangles is equal to the square of the ratio of their corresponding sides.",
+      "subject": "Mathematics",
+      "topic": "Triangles",
+      "difficulty_level": "hard",
+      "rubric": "Use the concept of similar triangles and area formula derivation."
+    },
+    {
+      "question_id": "CIR_01",
+      "question_text": "Define a tangent to a circle.",
+      "subject": "Mathematics",
+      "topic": "Circles",
+      "difficulty_level": "easy",
+      "correct_answer": "A line that touches the circle at exactly one point."
+    },
+    {
+      "question_id": "CIR_02",
+      "question_text": "How many tangents can be drawn from an external point to a circle?",
+      "subject": "Mathematics",
+      "topic": "Circles",
+      "difficulty_level": "easy",
+      "correct_answer": "Two"
+    },
+    {
+      "question_id": "CIR_03",
+      "question_text": "Prove that the lengths of two tangents drawn from an external point to a circle are equal.",
+      "subject": "Mathematics",
+      "topic": "Circles",
+      "difficulty_level": "medium",
+      "rubric": "Use congruence of triangles formed by the tangents and the radius."
+    },
+    {
+      "question_id": "CIR_04",
+      "question_text": "Find the radius of a circle if the length of a tangent from a point 10 cm away is 8 cm.",
+      "subject": "Mathematics",
+      "topic": "Circles",
+      "difficulty_level": "medium",
+      "correct_answer": "Radius = 6 cm (Using Pythagoras theorem)"
+    },
+    {
+      "question_id": "CIR_05",
+      "question_text": "Prove that the perpendicular from the center to a chord bisects the chord.",
+      "subject": "Mathematics",
+      "topic": "Circles",
+      "difficulty_level": "hard",
+      "rubric": "Use perpendicular bisector properties and triangle congruency."
+    },
+    {
+      "question_id": "TRIG_01",
+      "question_text": "Define sine, cosine, and tangent in terms of a right-angled triangle.",
+      "subject": "Mathematics",
+      "topic": "Introduction to Trigonometry",
+      "difficulty_level": "easy",
+      "correct_answer": "sinθ = opposite/hypotenuse, cosθ = adjacent/hypotenuse, tanθ = opposite/adjacent."
+    },
+    {
+      "question_id": "TRIG_02",
+      "question_text": "Find the value of sin 30° and cos 60°.",
+      "subject": "Mathematics",
+      "topic": "Introduction to Trigonometry",
+      "difficulty_level": "easy",
+      "correct_answer": "sin 30° = 1/2, cos 60° = 1/2"
+    },
+    {
+      "question_id": "TRIG_03",
+      "question_text": "If sin A = 3/5, find cos A and tan A.",
+      "subject": "Mathematics",
+      "topic": "Introduction to Trigonometry",
+      "difficulty_level": "medium",
+      "correct_answer": "cos A = 4/5, tan A = 3/4"
+    },
+    {
+      "question_id": "TRIG_04",
+      "question_text": "Prove that 1 + tan² A = sec² A.",
+      "subject": "Mathematics",
+      "topic": "Trigonometric Identities",
+      "difficulty_level": "medium",
+      "rubric": "Use sin² A + cos² A = 1 to derive the identity."
+    },
+    {
+      "question_id": "TRIG_05",
+      "question_text": "Solve for x: 2cos²x - 1 = 0 for 0° ≤ x ≤ 180°",
+      "subject": "Mathematics",
+      "topic": "Trigonometric Identities",
+      "difficulty_level": "hard",
+      "correct_answer": "x = 45°, 135°"
+    }
+  ]
+}
