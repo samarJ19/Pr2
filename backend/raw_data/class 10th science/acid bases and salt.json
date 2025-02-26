@@ -1,0 +1,207 @@
+{
+    "subjective_questions": [
+      {
+        "question_id": "ABS_01",
+        "question_text": "Define acids and bases according to Arrhenius, Bronsted-Lowry, and Lewis concepts.",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define acids and bases according to Arrhenius concept", 3],
+          ["Explain Bronsted-Lowry concept with examples", 3],
+          ["Explain Lewis concept with an example", 4]
+        ]
+      },
+      {
+        "question_id": "ABS_02",
+        "question_text": "What are indicators? Explain the working of two natural indicators.",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Define indicators and their purpose", 3],
+          ["Explain the working of litmus indicator", 4],
+          ["Describe another natural indicator like turmeric or red cabbage", 3]
+        ]
+      },
+      {
+        "question_id": "ABS_03",
+        "question_text": "Explain the pH scale. How does pH affect the survival of aquatic organisms?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define pH scale and its range", 3],
+          ["Explain the significance of pH in daily life", 3],
+          ["Discuss how pH changes affect aquatic life", 4]
+        ]
+      },
+      {
+        "question_id": "ABS_04",
+        "question_text": "Describe the preparation and uses of baking soda.",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Describe the chemical formula and preparation method", 4],
+          ["Mention at least three common uses", 3],
+          ["Explain its reaction with acids", 3]
+        ]
+      },
+      {
+        "question_id": "ABS_05",
+        "question_text": "Why does tooth decay occur? How can it be prevented?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Explain the role of acids in tooth decay", 3],
+          ["Describe how bacteria contribute to the process", 3],
+          ["Suggest at least two preventive measures", 4]
+        ]
+      },
+      {
+        "question_id": "ABS_06",
+        "question_text": "What is neutralization reaction? Give an example.",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define neutralization reaction", 3],
+          ["Provide a balanced chemical equation", 3],
+          ["Explain a real-life application of neutralization", 4]
+        ]
+      },
+      {
+        "question_id": "ABS_07",
+        "question_text": "What are the properties of acids and bases?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["List physical properties of acids and bases", 3],
+          ["Describe chemical properties with reactions", 4],
+          ["Provide at least one example of each", 3]
+        ]
+      },
+      {
+        "question_id": "ABS_08",
+        "question_text": "Explain the process of chlor-alkali reaction and its products.",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Describe the electrolysis of brine", 4],
+          ["Mention the products formed and their uses", 3],
+          ["Explain the importance of the process", 3]
+        ]
+      },
+      {
+        "question_id": "ABS_09",
+        "question_text": "How is washing soda prepared from baking soda? Write the reaction involved.",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Explain the conversion process", 4],
+          ["Provide balanced chemical equations", 4],
+          ["Describe at least two uses of washing soda", 2]
+        ]
+      },
+      {
+        "question_id": "ABS_10",
+        "question_text": "Describe how acids and bases react with metals. Give examples.",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Explain the reaction of acids with metals", 3],
+          ["Describe the reaction of bases with metals", 3],
+          ["Provide balanced equations for both reactions", 4]
+        ]
+      }
+    ],
+    "objective_questions": [
+      {
+        "question_id": "ABS_11",
+        "question_text": "What is the chemical formula of baking soda?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "easy",
+        "correct_answer": "NaHCO3"
+      },
+      {
+        "question_id": "ABS_12",
+        "question_text": "Which of the following is a strong acid?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "easy",
+        "correct_answer": "HCl"
+      },
+      {
+        "question_id": "ABS_13",
+        "question_text": "What is the pH value of pure water?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "easy",
+        "correct_answer": "7"
+      },
+      {
+        "question_id": "ABS_14",
+        "question_text": "Which gas is evolved when an acid reacts with a metal?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "medium",
+        "correct_answer": "Hydrogen gas"
+      },
+      {
+        "question_id": "ABS_15",
+        "question_text": "Which indicator turns red in acidic solutions?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "medium",
+        "correct_answer": "Litmus"
+      },
+      {
+        "question_id": "ABS_16",
+        "question_text": "Which of these substances is alkaline in nature?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "medium",
+        "correct_answer": "Lime water"
+      },
+      {
+        "question_id": "ABS_17",
+        "question_text": "What is the chemical name of common salt?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "hard",
+        "correct_answer": "Sodium chloride"
+      },
+      {
+        "question_id": "ABS_18",
+        "question_text": "Which gas is released when sodium carbonate reacts with hydrochloric acid?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "hard",
+        "correct_answer": "Carbon dioxide"
+      },
+      {
+        "question_id": "ABS_19",
+        "question_text": "Which base is commonly used in soap making?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "hard",
+        "correct_answer": "Sodium hydroxide"
+      },
+      {
+        "question_id": "ABS_20",
+        "question_text": "Which of these is an example of a neutral salt?",
+        "subject": "Science",
+        "topic": "Acids, Bases and Salts",
+        "difficulty_level": "hard",
+        "correct_answer": "Sodium chloride"
+      }
+    ]
+  }
+  

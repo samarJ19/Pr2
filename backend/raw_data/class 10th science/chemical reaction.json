@@ -1,0 +1,209 @@
+{
+    "subjective_questions": [
+      {
+        "question_id": "CR_01",
+        "question_text": "What are chemical reactions? Explain with an example.",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Define chemical reaction", 3],
+          ["Provide a general example with chemical equation", 3],
+          ["Explain the importance of chemical reactions in daily life", 4]
+        ]
+      },
+      {
+        "question_id": "CR_02",
+        "question_text": "What are the different types of chemical reactions? Explain any two with examples.",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Mention different types of chemical reactions", 2],
+          ["Explain any two types with proper definitions", 4],
+          ["Provide balanced chemical equations for both types", 4]
+        ]
+      },
+      {
+        "question_id": "CR_03",
+        "question_text": "Why is photosynthesis considered an endothermic reaction?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define endothermic reaction and provide a general example", 2],
+          ["Explain how photosynthesis requires light energy", 3],
+          ["Write the balanced chemical equation for photosynthesis", 3],
+          ["Mention the role of chlorophyll in trapping light energy", 2]
+        ]
+      },
+      {
+        "question_id": "CR_04",
+        "question_text": "What is a redox reaction? Explain with an example.",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define redox reaction and mention oxidation-reduction", 3],
+          ["Provide a balanced chemical equation", 3],
+          ["Explain oxidation and reduction separately", 2],
+          ["Give a real-life example of a redox reaction", 2]
+        ]
+      },
+      {
+        "question_id": "CR_05",
+        "question_text": "Describe the process of rusting of iron. How can it be prevented?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Explain the process of rusting with chemical equation", 4],
+          ["Describe the conditions required for rusting", 3],
+          ["Suggest two methods to prevent rusting", 3]
+        ]
+      },
+      {
+        "question_id": "CR_06",
+        "question_text": "Differentiate between exothermic and endothermic reactions with suitable examples.",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define exothermic and endothermic reactions", 3],
+          ["Provide one example with a balanced equation for each", 4],
+          ["Explain the difference in energy exchange", 3]
+        ]
+      },
+      {
+        "question_id": "CR_07",
+        "question_text": "Explain the concept of a balanced chemical equation. Why is it important?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define balanced chemical equation", 3],
+          ["Explain the law of conservation of mass", 4],
+          ["Provide an example with balancing steps", 3]
+        ]
+      },
+      {
+        "question_id": "CR_08",
+        "question_text": "What are displacement and double displacement reactions? Give one example of each.",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Define displacement and double displacement reactions", 4],
+          ["Provide one example of each with balanced equations", 4],
+          ["Explain the underlying reaction mechanism", 2]
+        ]
+      },
+      {
+        "question_id": "CR_09",
+        "question_text": "Explain how chemical reactions are classified based on energy changes.",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Describe energy changes in chemical reactions", 3],
+          ["Define exothermic and endothermic reactions with examples", 4],
+          ["Explain why energy changes occur at the molecular level", 3]
+        ]
+      },
+      {
+        "question_id": "CR_10",
+        "question_text": "Discuss the role of catalysts in chemical reactions with an example.",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Define catalysts and their role", 3],
+          ["Provide a real-world example with a balanced equation", 3],
+          ["Explain how catalysts affect reaction rate", 4]
+        ]
+      }
+    ],
+    "objective_questions": [
+      {
+        "question_id": "CR_11",
+        "question_text": "Which of the following is a decomposition reaction?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "easy",
+        "correct_answer": "2H2O2 → 2H2O + O2"
+      },
+      {
+        "question_id": "CR_12",
+        "question_text": "Rusting of iron is an example of which type of reaction?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "easy",
+        "correct_answer": "Oxidation reaction"
+      },
+      {
+        "question_id": "CR_13",
+        "question_text": "Which gas is evolved when a metal reacts with an acid?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "easy",
+        "correct_answer": "Hydrogen gas"
+      },
+      {
+        "question_id": "CR_14",
+        "question_text": "Which type of reaction occurs in a blast furnace to extract iron?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "correct_answer": "Reduction reaction"
+      },
+      {
+        "question_id": "CR_15",
+        "question_text": "Which of these reactions is an example of an exothermic reaction?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "correct_answer": "Combustion of methane"
+      },
+      {
+        "question_id": "CR_16",
+        "question_text": "What is the color change when iron reacts with copper sulfate solution?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "medium",
+        "correct_answer": "Blue to green"
+      },
+      {
+        "question_id": "CR_17",
+        "question_text": "Which of these is an example of a combination reaction?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "hard",
+        "correct_answer": "2Mg + O2 → 2MgO"
+      },
+      {
+        "question_id": "CR_18",
+        "question_text": "What is the function of a catalyst in a chemical reaction?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "hard",
+        "correct_answer": "It increases the rate of reaction without being consumed."
+      },
+      {
+        "question_id": "CR_19",
+        "question_text": "Which of these is NOT a characteristic of a chemical reaction?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "hard",
+        "correct_answer": "Change in state without chemical change"
+      },
+      {
+        "question_id": "CR_20",
+        "question_text": "Which reaction is used in the manufacture of ammonia?",
+        "subject": "Science",
+        "topic": "Chemical Reactions",
+        "difficulty_level": "hard",
+        "correct_answer": "Haber process"
+      }
+    ]
+  }
+  

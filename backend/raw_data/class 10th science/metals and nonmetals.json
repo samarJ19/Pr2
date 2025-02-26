@@ -1,0 +1,207 @@
+{
+    "subjective_questions": [
+      {
+        "question_id": "MN_01",
+        "question_text": "Explain the physical properties of metals and non-metals with examples.",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["List at least three physical properties of metals", 3],
+          ["List at least three physical properties of non-metals", 3],
+          ["Provide suitable examples for both", 4]
+        ]
+      },
+      {
+        "question_id": "MN_02",
+        "question_text": "Describe the reactivity series of metals. How does it help in predicting displacement reactions?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define the reactivity series", 3],
+          ["Explain its significance in displacement reactions", 4],
+          ["Provide a relevant example with a balanced equation", 3]
+        ]
+      },
+      {
+        "question_id": "MN_03",
+        "question_text": "How is corrosion of metals prevented? Explain any two methods.",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define corrosion and explain its causes", 3],
+          ["Describe at least two prevention methods", 5],
+          ["Provide examples of each method", 2]
+        ]
+      },
+      {
+        "question_id": "MN_04",
+        "question_text": "Why do ionic compounds have high melting and boiling points?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define ionic compounds and their formation", 3],
+          ["Explain the role of electrostatic forces", 4],
+          ["Provide a real-world example", 3]
+        ]
+      },
+      {
+        "question_id": "MN_05",
+        "question_text": "What is an alloy? Give two examples and their uses.",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Define alloy and its composition", 3],
+          ["Give two examples of alloys", 3],
+          ["Mention their uses", 4]
+        ]
+      },
+      {
+        "question_id": "MN_06",
+        "question_text": "Explain how metals react with acids and bases. Provide balanced equations.",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Explain reaction of metals with acids", 3],
+          ["Explain reaction of metals with bases", 3],
+          ["Provide balanced chemical equations for both", 4]
+        ]
+      },
+      {
+        "question_id": "MN_07",
+        "question_text": "Describe the extraction of metals from their ores through reduction and refining processes.",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Explain the process of reduction in extraction", 4],
+          ["Describe refining with an example", 3],
+          ["Provide a real-world application", 3]
+        ]
+      },
+      {
+        "question_id": "MN_08",
+        "question_text": "What are amphoteric oxides? Give two examples with reactions.",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Define amphoteric oxides", 3],
+          ["Give two examples", 3],
+          ["Provide their reactions with acids and bases", 4]
+        ]
+      },
+      {
+        "question_id": "MN_09",
+        "question_text": "Why is sodium stored in kerosene but iron is not?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Explain the reactivity of sodium", 3],
+          ["Describe how kerosene prevents sodium from reacting", 4],
+          ["Compare with iron and explain why it does not require special storage", 3]
+        ]
+      },
+      {
+        "question_id": "MN_10",
+        "question_text": "How does the electronic configuration of metals and non-metals affect their chemical properties?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Explain the general electronic configuration of metals", 3],
+          ["Explain the general electronic configuration of non-metals", 3],
+          ["Describe how these configurations determine reactivity", 4]
+        ]
+      }
+    ],
+    "objective_questions": [
+      {
+        "question_id": "MN_11",
+        "question_text": "Which metal is the best conductor of electricity?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "easy",
+        "correct_answer": "Silver"
+      },
+      {
+        "question_id": "MN_12",
+        "question_text": "Which metal is the most reactive?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "easy",
+        "correct_answer": "Potassium"
+      },
+      {
+        "question_id": "MN_13",
+        "question_text": "What is the main component of stainless steel?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "easy",
+        "correct_answer": "Iron"
+      },
+      {
+        "question_id": "MN_14",
+        "question_text": "Which metal does not react with dilute hydrochloric acid?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "correct_answer": "Copper"
+      },
+      {
+        "question_id": "MN_15",
+        "question_text": "What is the chemical formula of rust?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "correct_answer": "Fe2O3·xH2O"
+      },
+      {
+        "question_id": "MN_16",
+        "question_text": "Which non-metal is a good conductor of electricity?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "correct_answer": "Graphite"
+      },
+      {
+        "question_id": "MN_17",
+        "question_text": "Which property of metals allows them to be drawn into wires?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "correct_answer": "Ductility"
+      },
+      {
+        "question_id": "MN_18",
+        "question_text": "Which of the following is an alloy?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "medium",
+        "correct_answer": "Brass"
+      },
+      {
+        "question_id": "MN_19",
+        "question_text": "Which metal is used in galvanization?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "hard",
+        "correct_answer": "Zinc"
+      },
+      {
+        "question_id": "MN_20",
+        "question_text": "Which metal is liquid at room temperature?",
+        "subject": "Science",
+        "topic": "Metals and Non-metals",
+        "difficulty_level": "hard",
+        "correct_answer": "Mercury"
+      }
+    ]
+  }
+  

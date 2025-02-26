@@ -1,0 +1,207 @@
+{
+    "subjective_questions": [
+      {
+        "question_id": "CC_01",
+        "question_text": "Explain the properties of carbon that lead to the formation of a large number of compounds.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define tetravalency of carbon", 3],
+          ["Explain catenation with examples", 3],
+          ["Mention hybridization and bond formation", 4]
+        ]
+      },
+      {
+        "question_id": "CC_02",
+        "question_text": "What are homologous series? Give an example.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Define homologous series", 3],
+          ["Explain the general formula", 3],
+          ["Provide an example with at least three members", 4]
+        ]
+      },
+      {
+        "question_id": "CC_03",
+        "question_text": "Differentiate between saturated and unsaturated hydrocarbons with examples.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define saturated hydrocarbons", 3],
+          ["Define unsaturated hydrocarbons", 3],
+          ["Give two examples for each", 4]
+        ]
+      },
+      {
+        "question_id": "CC_04",
+        "question_text": "Explain the structure and bonding of methane (CH₄).",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Draw the structure of methane", 3],
+          ["Describe the bonding in methane", 4],
+          ["Mention the type of hybridization", 3]
+        ]
+      },
+      {
+        "question_id": "CC_05",
+        "question_text": "What happens when ethanol is heated with concentrated sulphuric acid? Write the chemical equation.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Describe the reaction", 3],
+          ["Write the balanced chemical equation", 4],
+          ["Explain the role of sulphuric acid", 3]
+        ]
+      },
+      {
+        "question_id": "CC_06",
+        "question_text": "How does soap help in cleansing? Explain with the structure of a soap molecule.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Describe the structure of a soap molecule", 3],
+          ["Explain the mechanism of cleansing", 4],
+          ["Mention micelle formation", 3]
+        ]
+      },
+      {
+        "question_id": "CC_07",
+        "question_text": "Why does carbon form covalent bonds? Explain with examples.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Explain why carbon does not form ionic bonds", 3],
+          ["Describe covalent bond formation", 3],
+          ["Give an example of a covalent compound", 4]
+        ]
+      },
+      {
+        "question_id": "CC_08",
+        "question_text": "Explain the difference between ethanol and ethanoic acid based on their physical and chemical properties.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "hard",
+        "rubric": [
+          ["Describe physical differences (odor, solubility)", 3],
+          ["Mention chemical properties like reaction with NaOH", 4],
+          ["Provide equations for at least two reactions", 3]
+        ]
+      },
+      {
+        "question_id": "CC_09",
+        "question_text": "What is the role of catalysts in chemical reactions? Explain with an example from organic chemistry.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "rubric": [
+          ["Define catalyst", 3],
+          ["Explain its role in chemical reactions", 3],
+          ["Give an example from organic chemistry", 4]
+        ]
+      },
+      {
+        "question_id": "CC_10",
+        "question_text": "Write the general formula of alkanes, alkenes, and alkynes. Give one example of each.",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "easy",
+        "rubric": [
+          ["Write the general formula of alkanes, alkenes, and alkynes", 4],
+          ["Give an example of each", 3],
+          ["Mention the bonding in each", 3]
+        ]
+      }
+    ],
+    "objective_questions": [
+      {
+        "question_id": "CC_11",
+        "question_text": "Which element exhibits catenation the most?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "easy",
+        "correct_answer": "Carbon"
+      },
+      {
+        "question_id": "CC_12",
+        "question_text": "Which of the following is a saturated hydrocarbon?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "easy",
+        "correct_answer": "Ethane"
+      },
+      {
+        "question_id": "CC_13",
+        "question_text": "What is the functional group in alcohols?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "easy",
+        "correct_answer": "–OH"
+      },
+      {
+        "question_id": "CC_14",
+        "question_text": "Which of the following is used as a preservative in pickles?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "correct_answer": "Acetic acid"
+      },
+      {
+        "question_id": "CC_15",
+        "question_text": "What is the molecular formula of methane?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "easy",
+        "correct_answer": "CH₄"
+      },
+      {
+        "question_id": "CC_16",
+        "question_text": "Which of the following is NOT a hydrocarbon?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "correct_answer": "Acetic acid"
+      },
+      {
+        "question_id": "CC_17",
+        "question_text": "Which type of reaction is used to convert unsaturated hydrocarbons to saturated hydrocarbons?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "correct_answer": "Hydrogenation"
+      },
+      {
+        "question_id": "CC_18",
+        "question_text": "Which of the following is an alkyne?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "correct_answer": "Ethyne"
+      },
+      {
+        "question_id": "CC_19",
+        "question_text": "What is the IUPAC name of vinegar?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "easy",
+        "correct_answer": "Ethanoic acid"
+      },
+      {
+        "question_id": "CC_20",
+        "question_text": "Which of the following compounds contains a carboxyl (-COOH) functional group?",
+        "subject": "Science",
+        "topic": "Carbon Compounds",
+        "difficulty_level": "medium",
+        "correct_answer": "Ethanoic acid"
+      }
+    ]
+  }
+  
